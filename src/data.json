@@ -1,0 +1,89 @@
+
+{
+	"list": [{
+			"id": 1,
+			"name":"Nithya Menon",
+			"image": "/images/One.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, Chennai, Tamilnadu, India"
+		},
+		{
+			"id": 2,
+			"name":"Sai Pallavi",
+			"image": "/images/two.png",
+			"bio": "28 Yrs 5 ft 4 in, Tamil, Nair,Engg, Delhi, Tamilnadu, India"
+		},
+		{
+			"id": 3,
+			"name":"Sai",
+			"image": "/images/three.png",
+			"bio": "26 Yrs 5 ft 0 in, Tamil, Arts, Trichy, Tamilnadu, India"
+		}, {
+			"id": 4,
+			"name":"Geetha",
+			"image": "/images/four.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, Hindu, Chennai, Tamilnadu, India"
+		}, {
+			"id": 5,
+			"name":"Anitha",
+			"image": "/images/five.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, B.Tech IT, Selam, Tamilnadu, India"
+		}, {
+			"id": 6,
+			"name":"Shreeya Shetty",
+			"image": "/images/six.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, Nair,MBBS, Doctor, Chennai, Tamilnadu, India"
+		}, {
+			"id": 7,
+			"name":"Janani",
+			"image": "/images/seven.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, Nair,MBBS, Doctor, Chennai, Tamilnadu, India"
+		}, {
+			"id": 8,
+			"name": "Ishu",
+			"image": "/images/eight.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, Nair,MBBS, Doctor, Chennai, Tamilnadu, India"
+		}, {
+			"id": 9,
+			"name":"Reshmika",
+			"image": "/images/nine.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, Nair,MBBS, Doctor, Chennai, Tamilnadu, India"
+		}, {
+			"id": 10,
+			"name":"Nithya",
+			"image": "/images/ten.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, Nair,MBBS, Doctor, Chennai, Tamilnadu, India"
+		}, {
+			"id": 11,
+			"name":"Swetha",
+			"image": "/images/ele.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, Nair,MBBS, Doctor, Chennai, Tamilnadu, India"
+		}, {
+			"id": 12,
+			"name":"Mounika",
+			"image": "/images/17.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, Nair,MBBS, Doctor, Chennai, Tamilnadu, India"
+		},
+		{
+			"id": 13,
+			"name":"Puppy",
+			"image": "/images/18.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, Nair,MBBS, Doctor, Chennai, Tamilnadu, India"
+		}, {
+			"id": 14,
+			"name":"Viji",
+			"image": "/images/14.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, Nair,MBBS, Doctor, Chennai, Tamilnadu, India"
+		},
+		{
+			"id": 15,
+			"name":"Hema",
+			"image": "/images/15.png",
+			"bio": "27 Yrs 5 ft 2 in, Tamil, Nair,MBBS, Doctor, Chennai, Tamilnadu, India"
+		}, {
+			"id": 16,
+			"name":"Sunitha",
+			"image": "/images/16.png",
+			"bio": "27 Yrs 5 ft 2 in, Dancer, Assam, India"
+		}
+	]
+}
